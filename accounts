@@ -1,4 +1,10 @@
-dataugchermit1@gmail.com
-G7!p2#wX9$vL*q5K
+relevant refrences:
+https://emn178.github.io/
 
 
+https://iris.fbr.gov.pk/
+email : saqlaenshafqat@gmail.com
+password: sha256((sha256(saltrottenpotatosalt)) .......(salt=F*******d) 
+Rule#1:  keep 13 chars from hash starting from first f(capitalize this f), 
+Rule#2:  capitalize first alphanumeric(first f that appears in hash), 
+Rule#3:  add a secret symbol before the second f that appears in hash (which should be less than 13 spaces away from first f)
