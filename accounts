@@ -1,9 +1,16 @@
 relevant refrences:
 https://emn178.github.io/online-tools/sha256.html
 
-https://iris.fbr.gov.pk/
-email : saqlaenshafqat@gmail.com
-password: sha256((sha256(saltrottenpotatosalt)) .......(salt=F*******d) 
-Rule#1:  keep 13 chars from hash starting from first f(capitalize this f), 
-Rule#2:  capitalize first alphanumeric(first f that appears in hash), 
-Rule#3:  add a secret symbol before the second f that appears in hash (which should be less than 13 spaces away from first f)
+legal accounts: 
+
+  https://iris.fbr.gov.pk/
+  email : saqlaenshafqat@gmail.com
+  password: sha256((sha256(saltrottenpotatosalt)) .......(salt=F*******d) 
+  Rule#1:  keep 12 chars from hash starting from first f(capitalize this f), 
+  Rule#2:  capitalize first alphanumeric(first f that appears in hash), 
+  Rule#3:  add @ before the second f that appears in hash (which should be less than 13 spaces away from first f)
+
+tiktok accounts:
+kowalir312@inraud.com :tees1053
+hash 17th line of endymion take first 8 chars , capitalize first char, add @6132
+#D2b9612d@6132
